@@ -8,7 +8,7 @@ We offer a transparent partnership program hosted securely on Gumroad.
 
 ## 📌 Program Overview
 
-* **Commission Rate:** 35% on every successful referral sale.
+* **Commission Rate:** 50% on every successful referral sale.
 * **Payouts:** Handled automatically via the Gumroad platform.
 * **Target Audience:** Marketers, crypto enthusiasts, developers, and automation specialists.
 
