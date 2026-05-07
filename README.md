@@ -7,6 +7,7 @@ We offer a transparent partnership program hosted securely on Gumroad.
 
 ---
 
+
 ## 📌 Program Overview
 
 * **Commission Rate:** 50% on every successful referral sale.
